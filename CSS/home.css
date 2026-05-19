@@ -21,3 +21,29 @@ h1{
     font-size: 60px;
     text-align: center;
 }
+
+.navbar ul{
+    list-style-type: none;
+    background-color: darkgreen;
+    padding: 0px;
+    overflow: hidden;
+    margin-top: 0px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: right;
+    margin: 20px;
+    font-size: 30px;
+}
+
+.navbar a:hover{
+    background-color: green;
+}
+
+.navbar li{
+    float: right;
+}
