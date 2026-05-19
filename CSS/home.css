@@ -1,3 +1,23 @@
 .main-image{
     width: 800px ;
 }
+
+.main-text{
+    font-size: 30px;
+}
+
+.top{
+        display: flex;       
+        align-items: flex-start; 
+        gap: 20px;               
+}
+
+.text-box {
+    display: flex;
+    flex-direction: column;
+  }
+  
+h1{
+    font-size: 60px;
+    text-align: center;
+}
