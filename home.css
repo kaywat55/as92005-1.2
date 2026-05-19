@@ -47,3 +47,12 @@ h1{
 .navbar li{
     float: right;
 }
+
+.navbar .logo {
+    float: left;
+  }
+
+  .navbar .logo img {
+    height: 100px;
+    padding: 5px;
+  }
