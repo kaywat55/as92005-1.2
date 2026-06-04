@@ -10,6 +10,7 @@ h1 {
 
 .main-image{
     width: 38% ;
+    border-radius: 15px;
 }
 
 .main-text{
@@ -49,6 +50,7 @@ h1 {
 
 .navbar a:hover{
     background-color: green;
+    border-radius: 5px;
 }
 
 .navbar li{
