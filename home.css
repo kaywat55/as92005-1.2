@@ -80,3 +80,16 @@ h1 {
   .container {
     padding: 16px;
   }
+  .cardimg{
+    width: 100%;
+    border-radius: 15px;
+    padding-bottom: 10px;
+  }
+
+  h2{
+    padding-bottom: 15px;
+    font-size: 40px;
+  }
+  .cardtext{
+    font-size: 20px;
+  }
