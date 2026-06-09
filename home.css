@@ -98,3 +98,13 @@ h1 {
   .cardtext{
     font-size: 20px;
   }
+
+  .bottem {
+    display: flex;       
+    align-items: flex-start; 
+    gap: 20px;     
+    padding: 20px;
+}
+.bottemimg{
+  width: 30%;
+}
