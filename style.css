@@ -115,3 +115,20 @@ h2{
   text-align: center;
 }
 
+.info{
+  border-radius: 15px;
+  border: 1px solid #eee;
+  background-color: rgb(214, 214, 214);
+  margin: 50px 100px;
+}
+.infohead{
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 20px;
+}
+.infotext{
+  font-size: 28px;
+  text-align: center;
+  padding: 30px;
+}
